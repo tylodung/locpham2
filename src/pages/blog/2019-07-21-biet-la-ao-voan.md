@@ -2,11 +2,11 @@
 templateKey: blog-post
 path: /biet-la-ao-voan
 title: Biết là áo voan mỏng rất mát nhưng chị em đừng mặc kiểu phô phang
-image: 'https://www.blogsudo.com/wp-content/uploads/2017/05/5-bi-quyet-de-ban-mac-ao-thun-nu-sanh-dieu-chon-co-5_cach_mac_ao_thun_nu_sanh_dieu_den_cong_so-1280x720.jpg' 
+image: 'https://i.ytimg.com/vi/mcLXP3cR3HI/maxresdefault.jpg' 
 tags:
   - Lam dep
 uev: 4.18.3
-date: 2019-06-23T13:12:33.962Z
+date: 2019-07-21T13:12:33.962Z
 description:
  
 ---

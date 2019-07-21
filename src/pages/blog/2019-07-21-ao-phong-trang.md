@@ -2,11 +2,11 @@
 templateKey: blog-post
 path: /ao-phong-trang
 title: Áo phông trắng nhưng liệu khi mặc lên, mọi người có phân biệt được cái nào đắt cái nào rẻ 
-image: 'https://www.blogsudo.com/wp-content/uploads/2017/05/ellevn-ao-thun-trang-490x367-1280x720.jpg' 
+image: 'https://i.ytimg.com/vi/1uKbzuKg3sg/maxresdefault.jpg' 
 tags:
   - Lam dep
 uev: 4.18.3
-date: 2019-06-24T13:12:33.962Z
+date: 2019-07-21T13:12:33.962Z
 description:
 
 ---
