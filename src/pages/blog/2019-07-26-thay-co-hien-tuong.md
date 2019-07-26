@@ -6,7 +6,7 @@ image: 'https://phanolink.com/wp-content/uploads/2018/09/25.jpg'
 tags:
   - Lam dep
 uev: 4.18.3
-date: 2019-06-24T13:12:33.962Z
+date: 2019-07-26T13:12:33.962Z
 description:
 
 ---
@@ -22,11 +22,11 @@ Bác sĩ Trần Thanh Long giải thích: "Ung thư vú có tính chất dễ di
 
 Bệnh võng mạc là căn bệnh thường gặp ở nhiều người, đặc biệt là những người mắc bệnh tiểu đường, cao huyết áp, thoái hóa điểm vàng ở người cao tuổi, tắc tĩnh mạch võng mạc, tắc động mạch trung tâm võng mạc, bong võng mạc. Nếu xuất hiện hiện tượng ruồi bay trước mắt, thị lực suy giảm, thì mọi người nên đến bệnh viện khám".
 
-Ung thư vú di căn là gì?
+**Ung thư vú di căn là gì?**
 
 Ung thư vú di căn có nghĩa là ung thư vú đã ở giai đoạn 4. Ở giai đoạn này, ung thư đã lan đến các bộ phận khác của cơ thể. Nó thường lây lan đến cả phổi, gan, xương và não.
 
-Làm thế nào ung thư lây lan hoặc di căn?
+**Làm thế nào ung thư lây lan hoặc di căn?**
 
 Sự lây lan của bệnh ung thư thường xảy ra thông qua một hoặc nhiều bước sau:
 

@@ -6,7 +6,7 @@ image: 'https://i.ytimg.com/vi/4ykzbizX1O0/maxresdefault.jpg'
 tags:
   - Lam dep
 uev: 4.18.3
-date: 2019-06-23T13:12:33.962Z
+date: 2019-07-26T13:12:33.962Z
 description:
 
 ---
@@ -19,11 +19,11 @@ Chắc ai trong chúng ta cũng từng có lần ghen tị với làn da đẹp 
 
 Đó là vào… 12 tháng tuổi. Ngạc nhiên chưa?
 
-Chống nắng không chỉ để đẹp, còn để ngăn ung thư da
+**Chống nắng không chỉ để đẹp, còn để ngăn ung thư da**
 
 Chúng ta thường nghĩ về chống nắng như một sản phẩm bảo vệ da khỏi lão hoá, cháy nắng, đen da, tàn nhang. Nhưng thực ra, chống nắng còn có một vai trò quan trọng hơn hết. Nó được các chuyên gia da liễu khuyên dùng để hỗ trợ phòng ngừa nguy cơ ung thư da từ tia UV. Các nhà khoa học đã khuyến cáo rằng làn da trẻ em dễ bị tổn thương bởi tia UV hơn da người lớn. Đặc biệt ở độ tuổi dưới 3, làn da bé hoàn toàn không có khả năng chống lại tia này. Phải đến 12 tuổi, cấu trúc da của trẻ mới hoàn thiện và có chức năng tương tự da người lớn. Trong khi đó, những tổn thương do UV gây ra ở trẻ em lại nguy hiểm hơn ở người lớn vì có nguy cơ cao dẫn đến ung thư da khi trưởng thành. Chính vì vậy, hơn cả việc làm đẹp, chống nắng còn là phương pháp duy nhất hiệu quả trong việc bảo vệ da khỏi mọi tổn thương từ tia UV. Sử dụng chống nắng cho trẻ em cũng vì thế mà trở thành thói quen quan trọng và cần thiết cho sức khoẻ.
 
-Chống nắng cho trẻ em "khó" hơn cho người lớn
+**Chống nắng cho trẻ em "khó" hơn cho người lớn**
 
 Cũng chính vì làn da trẻ non nớt, dễ bị tổn thương nên bạn cần cẩn trọng hơn khi chọn chống nắng cho bé. Nhiều mẹ chủ quan, chỉ dùng một sản phẩm cho cả hai mẹ con mà không chú ý rằng sản phẩm mình dùng không phù hợp với trẻ em. Thậm chí có trường hợp mẹ dùng chống nắng và bế bồng bé, khiến chất chống nắng dính lên da bé cũng có thể gây kích ứng.
 
